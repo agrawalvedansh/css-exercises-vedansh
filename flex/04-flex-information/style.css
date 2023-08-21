@@ -10,6 +10,39 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+}
+
+.info {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin: 32px;
+  gap: 52px;
+}
+
+.one {
+  width: 200px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.two {
+  width: 200px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.three {
+  width: 200px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.four {
+  width: 200px;
+  padding: 0px;
+  margin: 0px;
 }
 
 /* do not edit this footer */
